@@ -1,18 +1,5 @@
-## Batocera.PLUS.mod
-
-update: jdk 19
-
-del: firefox qBittorrent Wine WINDOWS_TOOLS
-
-    apt-get install coreutils p7zip unzip gzip zstd xz-utils bzip2 tar patch squashfs-tools kmod jq wget curl axel
-    
-    git clone https://github.com/s700k/Batocera.PLUS.mod.git
-    
-    cd Batocera.PLUS.mod
-    
-    ./build-batocera.plus.mod
 ## Batocera.PLUS
-
+Batocera.PLUS | [Batocera.PLUS.mod](https://github.com/s700k/Batocera.PLUS.mod/blob/master/README.mod.md)
 ### O que é o Batocera.PLUS?
 
 O Batocera.PLUS é um sistema operacional minimalista (firmware) que transforma um PC 64 bits  em um console dedicado a retro emulação.
