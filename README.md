@@ -1,5 +1,5 @@
 ## Batocera.PLUS
-Batocera.PLUS | [Batocera.PLUS.mod](https://github.com/s700k/Batocera.PLUS.mod/blob/master/README.mod.md)
+
 ### O que é o Batocera.PLUS?
 
 O Batocera.PLUS é um sistema operacional minimalista (firmware) que transforma um PC 64 bits  em um console dedicado a retro emulação.
