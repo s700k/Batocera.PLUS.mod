@@ -347,7 +347,7 @@ URL_WINDOWS_TOOLS='9b20ae5ca70260ef0a6f6ec46682880c38abb938'
 URL_WINDOWS_TOOLS="https://github.com/AlexxandreFS/Batocera.PLUS-tools/archive/${URL_WINDOWS_TOOLS}.zip#/Batocera.PLUS-tools-${URL_WINDOWS_TOOLS}.zip"
 URL_EXTERNAL_PKG=("${URL_EXTERNAL_PKG[@]}" "${URL_WINDOWS_TOOLS}")
 
-URL_JAVA='https://download.oracle.com/java/18/latest/jdk-18_linux-x64_bin.tar.gz'
+URL_JAVA='https://download.oracle.com/java/19/latest/jdk-19_linux-x64_bin.tar.gz'
 #https://www.oracle.com/java/technologies/downloads/
 URL_EXTERNAL_PKG=("${URL_EXTERNAL_PKG[@]}" "${URL_JAVA}")
 
